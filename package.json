@@ -1,0 +1,23 @@
+{
+  "name": "sample-page",
+  "version": "1.0.0",
+  "description": "web-components sample pages",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"**/*.{cjs,html,js,json,md,ts}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/50ra4/sample-page.git"
+  },
+  "author": "50ra4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/50ra4/sample-page/issues"
+  },
+  "homepage": "https://github.com/50ra4/sample-page#readme",
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
